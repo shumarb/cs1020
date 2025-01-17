@@ -1,8 +1,8 @@
-# CS1020
+# CS1020: Data Structures & Algorithms I
 
 ## Overview
 This repository contains my submissions for the module `CS1020: Data Structures & Algorithms I`
-of the Bachelor of Computing (Computer Science) programme at the National University of Singapore
+as part of the [Bachelor of Computing (Computer Science)](https://www.github.com/shumarb/coursework) programme at the National University of Singapore.
 
 ### Take-home Lab Assignments
 | # | Question                                                                                                                                                                                                                                                                       |                                                                   
