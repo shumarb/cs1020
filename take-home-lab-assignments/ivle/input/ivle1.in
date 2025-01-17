@@ -1,0 +1,22 @@
+4 17
+CS1010 4 2
+CS1020 4 2
+CS1101S 5 10
+CS1010R 1 5
+total
+register John CS1020
+register Kevin CS1020
+register William CS1020
+details William
+total
+remove William CS1020
+remove Kevin CS1020
+register William CS1020
+register Kevin CS1010
+register Kevin CS1010R
+register Kevin CS1010
+details Kevin
+register Ivan CS1101S
+remove John CS1020
+total
+highest

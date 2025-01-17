@@ -1,0 +1,86 @@
+5 80
+CS1231 2 5
+CS3233 8 1
+IS1103 9 1
+ES1103 1 3
+GER1000 9 5
+register Ivan GER1000
+remove Kevin CS3233
+details Tan
+register Ivan IS1103
+details John
+remove Tan IS1103
+register William IS1103
+remove John ES1103
+register Tan CS1231
+remove Kevin GER1000
+register Tan CS1231
+register Tan GER1000
+remove John CS3233
+total
+register Tan IS1103
+register John ES1103
+remove Tan IS1103
+remove Tan CS3233
+details Tan
+register Ivan IS1103
+details Tan
+remove William IS1103
+register Ivan GER1000
+register William ES1103
+register William ES1103
+register William ES1103
+remove John ES1103
+details Ivan
+details William
+remove Kevin CS1231
+register Tan IS1103
+details William
+remove Ivan ES1103
+remove Kevin IS1103
+remove Kevin IS1103
+total
+register Tan IS1103
+register Tan CS1231
+remove Tan CS1231
+register John IS1103
+register Ivan CS3233
+details Ivan
+total
+total
+total
+details William
+total
+register Ivan CS3233
+details Tan
+total
+total
+details Tan
+register Ivan CS1231
+register Tan GER1000
+register Tan CS1231
+total
+total
+remove William CS1231
+total
+remove Ivan GER1000
+register John IS1103
+total
+register John GER1000
+details John
+remove Kevin GER1000
+register Ivan CS3233
+register William IS1103
+remove Tan CS3233
+details John
+register Ivan IS1103
+details John
+details Tan
+remove William GER1000
+remove Ivan ES1103
+details John
+details Kevin
+details Kevin
+register Tan ES1103
+details John
+total

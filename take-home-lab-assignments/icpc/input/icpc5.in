@@ -1,0 +1,106 @@
+5 3 100
+nzcretltat
+nwccamcyca
+jttipnxbdz
+hbaoltxdgl
+jqvwzpumep
+FIRST 1
+SUBMIT hbaoltxdgl 3 1 MLE
+TOP
+DETAILS jqvwzpumep
+SUBMIT jqvwzpumep 2 2 MLE
+TOP
+UNSOLVED
+DETAILS jqvwzpumep
+TOP
+SUBMIT jqvwzpumep 2 5 WA
+TOP
+SUBMIT hbaoltxdgl 3 10 RTE
+FIRST 2
+DETAILS hbaoltxdgl
+SUBMIT nwccamcyca 2 11 RTE
+TOP
+SUBMIT hbaoltxdgl 2 21 MLE
+DETAILS nzcretltat
+SUBMIT nzcretltat 2 26 WA
+TOP
+TOP
+UNSOLVED
+SUBMIT jqvwzpumep 2 32 WA
+DETAILS jttipnxbdz
+SUBMIT nzcretltat 2 42 AC
+SUBMIT hbaoltxdgl 2 47 WA
+SUBMIT nzcretltat 1 51 RTE
+SUBMIT hbaoltxdgl 1 56 AC
+UNSOLVED
+TOP
+FIRST 1
+TOP
+DETAILS nzcretltat
+SUBMIT jttipnxbdz 1 59 TLE
+SUBMIT nzcretltat 1 62 WA
+DETAILS jqvwzpumep
+SUBMIT hbaoltxdgl 2 69 AC
+DETAILS hbaoltxdgl
+SUBMIT hbaoltxdgl 3 79 WA
+TOP
+UNSOLVED
+DETAILS jttipnxbdz
+TOP
+SUBMIT nzcretltat 1 80 WA
+SUBMIT nwccamcyca 1 84 TLE
+TOP
+FIRST 2
+SUBMIT jqvwzpumep 1 94 MLE
+TOP
+FIRST 3
+SUBMIT hbaoltxdgl 2 97 MLE
+SUBMIT nzcretltat 2 102 WA
+UNSOLVED
+TOP
+SUBMIT nwccamcyca 2 112 RTE
+FIRST 3
+DETAILS jttipnxbdz
+TOP
+FIRST 2
+SUBMIT nwccamcyca 3 119 MLE
+TOP
+SUBMIT nzcretltat 2 124 TLE
+SUBMIT jttipnxbdz 2 132 RTE
+TOP
+TOP
+DETAILS jqvwzpumep
+TOP
+SUBMIT jqvwzpumep 3 141 MLE
+SUBMIT jttipnxbdz 3 150 AC
+SUBMIT jttipnxbdz 1 151 MLE
+UNSOLVED
+UNSOLVED
+TOP
+DETAILS nzcretltat
+TOP
+SUBMIT jttipnxbdz 3 160 RTE
+SUBMIT nwccamcyca 1 168 AC
+FIRST 2
+DETAILS nwccamcyca
+DETAILS jttipnxbdz
+FIRST 3
+SUBMIT jttipnxbdz 1 177 AC
+SUBMIT nwccamcyca 2 187 TLE
+FIRST 2
+UNSOLVED
+DETAILS nzcretltat
+TOP
+UNSOLVED
+SUBMIT hbaoltxdgl 1 197 AC
+SUBMIT hbaoltxdgl 1 204 WA
+TOP
+FIRST 2
+SUBMIT nwccamcyca 1 206 AC
+DETAILS jqvwzpumep
+SUBMIT jqvwzpumep 2 215 MLE
+SUBMIT hbaoltxdgl 2 220 MLE
+UNSOLVED
+SUBMIT jqvwzpumep 2 226 TLE
+UNSOLVED
+DETAILS jttipnxbdz

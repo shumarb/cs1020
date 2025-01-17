@@ -1,0 +1,66 @@
+5 60
+ES1103 6 4
+IS1103 10 1
+CS1010 4 2
+CS1010R 6 4
+CS1101S 2 2
+remove Tan ES1103
+remove William CS1101S
+remove William ES1103
+remove Tan CS1101S
+register Ivan CS1101S
+details William
+register John CS1010
+register Ivan IS1103
+details Ivan
+remove Ivan ES1103
+register William IS1103
+remove Ivan CS1101S
+register William CS1010R
+details William
+register Tan CS1010R
+details Tan
+remove William CS1010R
+details Kevin
+remove William CS1101S
+register Tan CS1010R
+register Kevin CS1010
+details William
+register John CS1010R
+details Ivan
+details Tan
+register Tan ES1103
+details Kevin
+register Ivan CS1010
+details Ivan
+register Tan ES1103
+details Kevin
+details William
+details William
+remove John CS1010R
+remove John IS1103
+register Kevin IS1103
+register John CS1010R
+register Tan IS1103
+register John CS1010
+details Kevin
+register Tan CS1010R
+register Tan CS1010
+register Ivan IS1103
+details Tan
+remove Kevin CS1010R
+register Kevin IS1103
+remove Tan CS1010R
+remove Tan CS1010R
+details Tan
+remove William CS1101S
+remove John CS1010R
+remove Kevin IS1103
+details John
+remove Kevin CS1101S
+register Ivan IS1103
+register Tan IS1103
+register Ivan CS1010
+remove Tan CS1010
+register John IS1103
+register Kevin CS1010
